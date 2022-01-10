@@ -1,2 +1,1 @@
-com.google.android.youtube,14.45.15
-com.costel.smarttv.radio,10.0
+com.google.android.youtube,14.45.15,https://www.costel.com
