@@ -1,1 +1,1 @@
-com.google.android.youtube,14.45.15,https://www.costel.com
+com.google.android.youtube,14.45.15,https://www.costel.com/youtube.apk
