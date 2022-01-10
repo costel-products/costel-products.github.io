@@ -1,1 +1,2 @@
-com.dyhwang.aquanote
+com.costel.smarttv.radio
+com.costel.smarttv.tv
