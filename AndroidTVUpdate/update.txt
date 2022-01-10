@@ -1,2 +1,1 @@
-com.costel.smarttv.radio
-com.costel.smarttv.tv
+com.google.android.youtube
