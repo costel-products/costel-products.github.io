@@ -1,3 +1,3 @@
 com.google.android.youtube,16.49.37,ftp://costel:costel1234@210.97.13.248/androidTV/com.google.android.youtube_v16.49.37-1524886976_Android-6.0.apk,106126921
 com.nhn.android.search,11.8.2,ftp://costel:costel1234@210.97.13.248/androidTV/naver-app-11-8-2_signed.apk,342614930
-com.netflix.mediaclient,8.35.0,ftp://costel:costel1234@210.97.13.248/androidTV/Netflix_v8.35.0_build_19_50257.apk,91750889
+com.netflix.mediaclient,8.35.0 build 19 50257,ftp://costel:costel1234@210.97.13.248/androidTV/Netflix_v8.35.0_build_19_50257.apk,91750889
