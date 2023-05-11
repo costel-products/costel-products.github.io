@@ -1,3 +1,2 @@
-com.google.android.youtube,17.34.35,ftp://costel:costel1234@210.97.13.248/androidTV/YouTube-17.34.35.apk,140207702
 com.nhn.android.search,11.8.2,ftp://costel:costel1234@210.97.13.248/androidTV/naver-app-11-8-2_signed.apk,342614930
 com.netflix.mediaclient,8.66.0,ftp://costel:costel1234@210.97.13.248/androidTV/Netflix_8.66.0_build_10_50402.apk,117067754
