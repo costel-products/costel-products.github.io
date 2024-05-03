@@ -1,4 +1,4 @@
-com.costel.smarttv.cstupdate2,1.3,ftp://costel:costel1234@210.97.13.248/androidTV/cstupdate2_v1_3.apk,3596529
+com.costel.smarttv.cstupdate2,1.3,ftp://costel:costel1234@210.97.13.248/androidTV/cstupdate2_v1_3.apk,3596489
 com.google.android.youtube,17.34.36,ftp://costel:costel1234@210.97.13.248/androidTV/youtube_v17.34.36.apk,140207702
 com.nhn.android.search,11.8.2,ftp://costel:costel1234@210.97.13.248/androidTV/naver-app-11-8-2_signed.apk,342614930
 com.netflix.mediaclient,8.114.0,ftp://costel:costel1234@210.97.13.248/androidTV/Netflix_8.114.0_build_5_50671.apk,76112626
