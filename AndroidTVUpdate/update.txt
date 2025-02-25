@@ -3,4 +3,4 @@ com.nhn.android.search,11.8.2,ftp://costel:costel1234@210.97.13.248/androidTV/na
 com.netflix.mediaclient,8.114.0,ftp://costel:costel1234@210.97.13.248/androidTV/Netflix_8.114.0_build_5_50671.apk,76112626
 com.costel.smarttv.nuguapp,1.0.16,ftp://costel:costel1234@210.97.13.248/androidTV/nugu_v1_0_16.apk,47543666
 com.costel.smarttv.raemiansettings,1.3.6,ftp://costel:costel1234@210.97.13.248/androidTV/raemiansettings_v1_3_6.apk,3773084
-com.costel.geckoview.youtubeweb,1.0.2,ftp://costel:costel1234@210.97.13.248/androidTV/webyoutube_v1_0_3.apk,46686202
+com.costel.geckoview.youtubeweb,1.0.3,ftp://costel:costel1234@210.97.13.248/androidTV/webyoutube_v1_0_3.apk,46686202
