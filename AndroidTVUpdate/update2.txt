@@ -1,2 +1,3 @@
-com.costel.smarttv.cstupdate2,2.0.1,ftp://costel:costel1234@210.97.13.248/androidTV_hv352/update2_v2_0_1.apk,5063798
+com.costel.smarttv.cstupdate2,2.0.1,ftp://costel:costel1234@210.97.13.248/androidTV_hv352/update2_v2_0_1.apk,5063794
 com.costel.smarttv.viewdoor,2.0.1,ftp://costel:costel1234@210.97.13.248/androidTV_hv352/door_v2_0_1.apk,3247543
+com.costel.smarttv.callguard,2.0.1,ftp://costel:costel1234@210.97.13.248/androidTV_hv352/guard_v2_0_1.apk,3198921
